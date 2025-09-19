@@ -1,6 +1,6 @@
 # <div align="center">Hello there!<br/>Fullstack software engineer in the making here ~</div>
 
-
+<div align="center">
   <!-- Frontend Row -->
   <a href="https://www.java.com/">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
