@@ -41,14 +41,12 @@
 #### *Follow me to see more of my progress!*
 
 ## Projects
-**To-Do List Project**
-+ Individual Project
-+ CRUD model
-+ Technologies:
-  + **Backend** : Node.js, Express, Oracle SQL
-  + **Frontend** : Vue.js, HTML, CSS, Figma  
-**Introduction Page**
-+ Individual Project
-+ Technologies :
-  + **Frontend** : HTML, CSS, Javascript
+> ### Make it (Individual Project)
+> Express.js + Node.js + Vue.js + Oracle SQL
++ Organizational tool based on the to-do list model
++ Login, logout and sign-up systems
++ Projects and tasks creation, edit, delete functions
++ Possibility to create or rearrange projects per deadline, priority or status
+
+
 
