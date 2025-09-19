@@ -17,6 +17,7 @@
   <a href="https://vuejs.org/">
     <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"/>
   </a>  
+  
   <!-- Backend & Database Row -->
   <a href="https://expressjs.com/">
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
@@ -34,8 +35,10 @@
 + Hi~ I’m Aline, currently studying a full-stack development program in Incheon, Korea!
 + Previously an English teacher and a graduate from a master’s degree in Tourism Management and Hospitality.
 + I decided to take a turn in my career and take on a new challenge!
-+ I find it fascinating the things we can build through coding and I think my patience and problem solving skills could be useful assets in the making of my future projects.  
-*Follow me to see more of my progress!*
++ I find it fascinating the things we can build through coding and I think my patience and problem solving skills could be useful assets in the making of my future projects.
+
+    
+#### *Follow me to see more of my progress!*
 
 ## Projects
 **To-Do List Project**
@@ -43,7 +46,7 @@
 + CRUD model
 + Technologies:
   + **Backend** : Node.js, Express, Oracle SQL
-  + **Frontend** : Vue.js, HTML, CSS, Figma
+  + **Frontend** : Vue.js, HTML, CSS, Figma  
 **Introduction Page**
 + Individual Project
 + Technologies :
