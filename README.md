@@ -1,5 +1,6 @@
-# <div align="center">Hello there! Software engineer in the making here ~</div>  
-<div align="center">
+# <div align="center">Hello there!</div>    
+# <div align="center">Fullstack software engineer in the making here ~</div> 
+
 
   <!-- Frontend Row -->
   <a href="https://www.java.com/">
@@ -47,6 +48,7 @@
 + Login, logout and sign-up systems
 + Projects and tasks creation, edit, delete functions
 + Possibility to create or rearrange projects per deadline, priority or status
+>> ### More to come . . .
 
 
 
