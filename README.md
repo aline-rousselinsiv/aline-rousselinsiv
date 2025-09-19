@@ -1,4 +1,4 @@
-# <div align="center">Hello there!</div>    
+# <div align="center">Hello there!</div>
 # <div align="center">Fullstack software engineer in the making here ~</div> 
 
 
