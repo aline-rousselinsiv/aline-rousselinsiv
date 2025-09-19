@@ -48,7 +48,7 @@
 + Login, logout and sign-up systems
 + Projects and tasks creation, edit, delete functions
 + Possibility to create or rearrange projects per deadline, priority or status
->> ### More to come . . .
+> ### More to come . . .
 
 
 
