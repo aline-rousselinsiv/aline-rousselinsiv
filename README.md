@@ -16,7 +16,7 @@
   </a>
   <a href="https://vuejs.org/">
     <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"/>
-  </a>
+  </a>  
   <!-- Backend & Database Row -->
   <a href="https://expressjs.com/">
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
@@ -38,17 +38,10 @@
 *Follow me to see more of my progress!*
 
 ## Projects   
-<!--
-**aline-rousselinsiv/aline-rousselinsiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+To-Do List Project
++ Individual Project
++ CRUD model
++ Technologies:
+  + **Backend** : Node.js, Express, Oracle SQL
+  + **Frontend** : Vue.js, HTML, CSS, Figma
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
