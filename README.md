@@ -1,4 +1,11 @@
-### <div align="center">Hello there! Software engineer in making here ~</div>
+# <div align="center">Hello there! Software engineer in the making here ~</div>  
+
+## About me
++ Hi~ I’m Aline, currently studying a full-stack development program in Incheon, Korea!
++ Previously an English teacher and a graduate from a master’s degree in Tourism Management and Hospitality.
++ I decided to take a turn in my career and take on a new challenge!
++ I find it fascinating the things we can build through coding and I think my patience and problem solving skills could be useful assets in the making of my future projects.
+*Follow me to see more of my progress!*
 
 <!--
 **aline-rousselinsiv/aline-rousselinsiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
