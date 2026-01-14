@@ -66,8 +66,7 @@
 
 ---
 
-> ### Runner’s House (Team Project | 팀 프로젝트)
-> 🔗 [GitHub Repository](https://github.com/kkomi211/springProject2025.git)
+> ### [Runner’s House](https://github.com/kkomi211/springProject2025.git) (Team Project | 팀 프로젝트)
 > **Java · Spring Boot · MyBatis · Oracle SQL · HTML/CSS · Vue.js · jQuery**
 + E-commerce platform for running enthusiasts with a community feature  
   러닝 애호가를 위한 커뮤니티 기반 이커머스 플랫폼
@@ -80,8 +79,7 @@
 
 ---
 
-> ### Foodie (Individual Project | 개인 프로젝트)
-> 🔗 [GitHub Repository](https://github.com/aline-rousselinsiv/react-sns-project.git )
+> ### [Foodie](https://github.com/aline-rousselinsiv/react-sns-project.git) (Individual Project | 개인 프로젝트)
 > **React · Node.js · Express · MySQL · MUI**
 + Social networking platform for food lovers  
   음식 애호가를 위한 SNS형 웹 애플리케이션
