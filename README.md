@@ -53,8 +53,7 @@
 
 ## Projects | 프로젝트
 
-> ### Make it (Individual Project | 개인 프로젝트)
-> 🔗 [GitHub Repository](https://github.com/aline-rousselinsiv/vue_express_project.git)
+> ### [Make it] (Individual Project | 개인 프로젝트) (https://github.com/aline-rousselinsiv/vue_express_project.git)
 > **Express.js · Node.js · Vue.js · Oracle SQL**
 + Organizational tool inspired by a to-do list system  
   할 일 관리 시스템을 기반으로 한 프로젝트 관리 웹 애플리케이션
