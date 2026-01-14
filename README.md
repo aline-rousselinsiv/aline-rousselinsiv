@@ -92,7 +92,7 @@
 
 ---
 
-> ### Mode (Team Project | 팀 프로젝트)
+> ### [Mode](https://github.com/yeseul1008/FlutterTeamProject.git) (Team Project | 팀 프로젝트)
 > **Dart · Flutter · Firebase (Firestore & Storage)**
 + Mobile digital wardrobe application with AI-powered outfit generation  
   AI 코디 생성 기능이 포함된 모바일 디지털 옷장 앱
